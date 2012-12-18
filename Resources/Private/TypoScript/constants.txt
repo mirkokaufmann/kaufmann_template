@@ -1,1 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/TypoScript/Constants/Filepaths.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/Private/TypoScript/Constants/Filepaths.ts">

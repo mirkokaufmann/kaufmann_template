@@ -1,5 +1,0 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/Private/TypoScript/Setup/Config.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/Private/TypoScript/Setup/Page.ts">
-
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/Private/TypoScript/Library/lib.firstLevelMenue.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:kaufmann_template/Resources/Private/TypoScript/Library/lib.secondLevelMenue.ts">
